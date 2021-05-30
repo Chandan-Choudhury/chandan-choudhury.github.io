@@ -38,9 +38,9 @@ export const homeObjThree = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'Want to reach',
-  headline: 'Email me at cc.me998@gmail.com',
+  headline: 'Email me at',
   description:
-    "I will try my best to reply your message soon.",
+    "approach2chandan@gmail.com",
   buttonLabel: 'Mail Us',
   imgStart: false,
   img: require('../../images/message.png'),
